@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJ+7ntv1ZBOPwN8o4ZRX26uYzPLmOZz8jbdomRK+A0DEYbtusq8NEEgscEVfYJuXiTo1mpuVGqMYELRAqGC4AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\摩诘创新\\Desktop\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\摩诘创新\\.nuget\\packages\\microsoft.aspnet.signalr.core\\2.4.3\\microsoft.aspnet.signalr.core.2.4.3.nupkg.sha512",
+    "C:\\Users\\摩诘创新\\.nuget\\packages\\microsoft.owin\\2.1.0\\microsoft.owin.2.1.0.nupkg.sha512",
+    "C:\\Users\\摩诘创新\\.nuget\\packages\\microsoft.owin.security\\2.1.0\\microsoft.owin.security.2.1.0.nupkg.sha512",
+    "C:\\Users\\摩诘创新\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512",
+    "C:\\Users\\摩诘创新\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512",
+    "C:\\Users\\摩诘创新\\.nuget\\packages\\protobuf-portable-net\\2.0.0.668\\protobuf-portable-net.2.0.0.668.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\摩诘创新\\Desktop\\Server\\Server\\Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\摩诘创新\\Desktop\\Server\\Server\\Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\摩诘创新\\Desktop\\Server\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "C:\\Users\\摩诘创新\\Desktop\\Server\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\摩诘创新\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\摩诘创新\\Desktop\\Server\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\摩诘创新\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "net46",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "dependencies": {
+            "Microsoft.AspNet.SignalR.Core": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            },
+            "protobuf-portable-net": {
+              "target": "Package",
+              "version": "[2.0.0.668, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

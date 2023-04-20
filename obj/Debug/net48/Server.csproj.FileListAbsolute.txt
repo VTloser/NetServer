@@ -1,0 +1,6 @@
+C:\Users\摩诘创新\Desktop\Server\Server\obj\Debug\net48\Server.csproj.AssemblyReference.cache
+C:\Users\摩诘创新\Desktop\Server\Server\obj\Debug\net48\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\摩诘创新\Desktop\Server\Server\obj\Debug\net48\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\摩诘创新\Desktop\Server\Server\obj\Debug\net48\Server.AssemblyInfoInputs.cache
+C:\Users\摩诘创新\Desktop\Server\Server\obj\Debug\net48\Server.AssemblyInfo.cs
+C:\Users\摩诘创新\Desktop\Server\Server\obj\Debug\net48\Server.csproj.CoreCompileInputs.cache
